@@ -1,0 +1,9 @@
+train: /content/yolov7/ball-detection-1/train/images
+test: /content/yolov7/ball-detection-1/test/images
+val: /content/yolov7/ball-detection-1/valid/images
+
+#Classes
+nc: 1
+#classes names
+
+names: ['ball']
